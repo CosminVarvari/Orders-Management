@@ -1,0 +1,13 @@
+ORDER NR 4
+
+Client name: Vasilache Andrei
+Client Address: Bulevardul Dacia 12
+Client E-mail: andrei.vasilache@gmail.com
+Client Phone: 0741111112
+
+Product name: Paste
+Product Unit Price: 13
+Number bought: 2
+
+TOTAL PRICE: 26
+DATE: 2022-05-01
